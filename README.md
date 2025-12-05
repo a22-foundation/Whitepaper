@@ -1,5 +1,3 @@
-# White-paper
-
 A22: A Agent Native Language for Defining Agentic Systems
 
 Whitepaper by the A22 Foundation
