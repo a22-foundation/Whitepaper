@@ -274,9 +274,7 @@ Ensure A22 remains stable, neutral, simple, and deeply builder-centric.
 
 9. Conclusion
 
-A22 introduces a clear, structured, deterministic way to describe agent behavior—accessible to non-technical builders while flexible enough for developers.
+A22 introduces a clear, structured, deterministic way to describe agent behavior—accessible to non-technical builders while flexible enough for experienced programmers.
 
 By separating the specification from implementation, A22 guarantees vendor neutrality and long-term consistency.
 By prioritizing builder experience, it makes agent creation intuitive, visual, and predictable.
-
-A22 represents a step toward making agentic systems understandable and editable by everyone.
